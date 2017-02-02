@@ -1,0 +1,3 @@
+# Latitudinal changes in the morphology of submarine channels: Reevaluating the evidence for the influence of the Coriolis force
+
+This repository contains materials associated with a manuscript in press entitled "Latitudinal changes in the morphology of submarine channels: Reevaluating the evidence for the influence of the Coriolis force" by Zoltan Sylvester and Carlos Pirmez. The manuscript will be published in SEPM Special Publication No. 108, entitled "Latitudinal Controls on Stratigraphic Models and Sedimentary Concepts", DOI: 10.2110/sepmsp.108.02.
